@@ -1,6 +1,4 @@
-//
-// Created by kaylor on 3/9/24.
-//
+
 #include <cctype>  // 用于检查字符是否为数字
 #include <cerrno>  // 用于检查 strtol 和 strtod 的错误
 
